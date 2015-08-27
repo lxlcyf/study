@@ -39,6 +39,7 @@ public class MyTest {
 			String s = "asdf%sadsfd%s";
 			s = String.format(s, "t", 11);
 			System.out.println(s);
+			System.out.println(s);
 		}
 
 	}
